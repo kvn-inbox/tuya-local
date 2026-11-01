@@ -277,6 +277,7 @@
 ### Thermostats
 
 - 4-TH quad temperature/humidity smart switch
+- AA311 OpenTherm thermostat
 - Alpine Saunas Helsinki sauna controller
 - Arlec PCTH01HA temperature/humidity smart switch
 - Atorch AT4PTW DIN rail thermostat
@@ -1433,6 +1434,7 @@ port and password.
 - Mustool MT15/MT29 air quality box
 - Nedis WIFIPD10WT pill dispenser
 - Nedis WIFISA10CWT air quality monitor
+- Nobito 2C09TB air quality monitor
 - Nobito air quality monitor
 - Palicy EC Pro 4 pool chlorinator
 - PGST PA-010 indoor temperature and humidity sensor

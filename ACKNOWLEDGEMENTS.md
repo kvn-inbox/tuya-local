@@ -974,3 +974,4 @@ Further device support has been made with the assistance of users. Please consid
 - [surfnterd](https://github.com/surfnterd) for contributing support for Pro Breeze PB-D-18W-WF 12L dehumidifier.
 - [ozgurclcc](https://github.com/ozgurclcc) for contributing support for Vibrix PureFlow30 air purifier.
 - [meeowgler](https://github.com/meeowgler) for contributing support for EA dual zone car fridge.
+- [kvn-inbox](https://github.com/kvn-inbox) for contributing support for AA311 OpenTherm thermostat and Nobito 2C09TB air quality monitor.
